@@ -1,0 +1,15 @@
+/Users/samwenkheimer/Documents/Code/learn-c-/bin/Debug/net7.0/learn-c-
+/Users/samwenkheimer/Documents/Code/learn-c-/bin/Debug/net7.0/learn-c-.deps.json
+/Users/samwenkheimer/Documents/Code/learn-c-/bin/Debug/net7.0/learn-c-.runtimeconfig.json
+/Users/samwenkheimer/Documents/Code/learn-c-/bin/Debug/net7.0/learn-c-.dll
+/Users/samwenkheimer/Documents/Code/learn-c-/bin/Debug/net7.0/learn-c-.pdb
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.csproj.AssemblyReference.cache
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.AssemblyInfoInputs.cache
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.AssemblyInfo.cs
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.csproj.CoreCompileInputs.cache
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.dll
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/refint/learn-c-.dll
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.pdb
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/learn-c-.genruntimeconfig.cache
+/Users/samwenkheimer/Documents/Code/learn-c-/obj/Debug/net7.0/ref/learn-c-.dll
